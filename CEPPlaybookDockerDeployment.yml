@@ -1,4 +1,4 @@
-- hosts: demo
+- hosts: Demo
   become: true
   tasks:
   - name: Install git and docker
